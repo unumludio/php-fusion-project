@@ -1,0 +1,12 @@
+#rotating-item-wrapper {
+	position: relative;
+	padding:0px 40px 20px 40px;
+	background-color:#fff;
+
+
+}
+.rotating-item {
+	display: none;
+	position: absolute;margin:0;
+
+}
